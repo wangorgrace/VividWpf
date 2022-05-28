@@ -2,6 +2,8 @@
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="Colors/BaseColor.xaml" />
         <ResourceDictionary Source="Styles/Button.xaml" />
+        <ResourceDictionary Source="Styles/TextBox.xaml" />
     </ResourceDictionary.MergedDictionaries>
 </ResourceDictionary>

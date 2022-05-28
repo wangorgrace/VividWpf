@@ -12,6 +12,7 @@
             <RowDefinition Height="*" />
             <RowDefinition Height="100" />
         </Grid.RowDefinitions>
+        <TextBox Grid.Row="0" Margin="10"/>
         <StackPanel
             Grid.Row="3"
             HorizontalAlignment="Right"
