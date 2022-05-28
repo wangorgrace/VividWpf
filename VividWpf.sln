@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VividWpf.UI", "VividWpf.UI\VividWpf.UI.csproj", "{F9AA0C91-86A7-4753-B0D9-9ABEB69FA174}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev", "Dev\Dev.csproj", "{8D404988-B20A-4827-9222-48FBAA223CD1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F9AA0C91-86A7-4753-B0D9-9ABEB69FA174} = {F9AA0C91-86A7-4753-B0D9-9ABEB69FA174}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
