@@ -13,10 +13,18 @@
             <RowDefinition Height="*" />
             <RowDefinition Height="100" />
         </Grid.RowDefinitions>
-        <TextBox
-            Grid.Row="0"
-            Margin="10"
-            util:TextBoxHelper.HitText="Please type something" />
+        <StackPanel>
+            <TextBox
+                Grid.Row="0"
+                Margin="10"
+                util:TextBoxHelper.HitText="Please type something" />
+            <ComboBox Margin="50,10" IsEditable="False">
+                <ComboBoxItem>123</ComboBoxItem>
+                <ComboBoxItem>123</ComboBoxItem>
+                <ComboBoxItem>123</ComboBoxItem>
+                <ComboBoxItem>123</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
         <StackPanel
             Grid.Row="3"
             HorizontalAlignment="Right"
