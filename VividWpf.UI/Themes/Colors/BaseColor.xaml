@@ -5,4 +5,16 @@
     <Color x:Key="MediumBlue">#0AA1DD</Color>
     <Color x:Key="LightBlue">#79DAE8</Color>
     <Color x:Key="GrayBlue">#E8F9FD</Color>
+
+    <!--Gray-->
+    <Color x:Key="Vivid.Gray0">#f8f9fa</Color>
+    <Color x:Key="Vivid.Gray1">#e9ecef</Color>
+    <Color x:Key="Vivid.Gray2">#dee2e6</Color>
+    <Color x:Key="Vivid.Gray3">#ced4da</Color>
+    <Color x:Key="Vivid.Gray4">#adb5bd</Color>
+    <Color x:Key="Vivid.Gray5">#6c757d</Color>
+    <Color x:Key="Vivid.Gray6">#495057</Color>
+    <Color x:Key="Vivid.Gray7">#343a40</Color>
+    <Color x:Key="Vivid.Gray8">#212529</Color>
+    
 </ResourceDictionary>
