@@ -9,8 +9,6 @@
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
             <RowDefinition Height="100" />
         </Grid.RowDefinitions>
         <StackPanel>
@@ -18,15 +16,18 @@
                 Grid.Row="0"
                 Margin="10"
                 util:TextBoxHelper.HitText="Please type something" />
-            <ComboBox Margin="50,10" IsEditable="False">
+            <ComboBox
+                Margin="10"
+                IsEditable="False">
                 <ComboBoxItem>123</ComboBoxItem>
                 <ComboBoxItem>123</ComboBoxItem>
                 <ComboBoxItem>123</ComboBoxItem>
                 <ComboBoxItem>123</ComboBoxItem>
             </ComboBox>
+            <ToggleButton IsEnabled="True"/>
         </StackPanel>
         <StackPanel
-            Grid.Row="3"
+            Grid.Row="1"
             HorizontalAlignment="Right"
             VerticalAlignment="Center"
             Orientation="Horizontal">

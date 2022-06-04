@@ -16,5 +16,14 @@
     <Color x:Key="Vivid.Gray6">#495057</Color>
     <Color x:Key="Vivid.Gray7">#343a40</Color>
     <Color x:Key="Vivid.Gray8">#212529</Color>
+
+    <Color x:Key="Vivid.Green0">#ccff33</Color>
+    <Color x:Key="Vivid.Green1">#9ef01a</Color>
+    <Color x:Key="Vivid.Green2">#70e000</Color>
+    <Color x:Key="Vivid.Green3">#38b000</Color>
+    <Color x:Key="Vivid.Green4">#008000</Color>
+    <Color x:Key="Vivid.Green5">#007200</Color>
+    <Color x:Key="Vivid.Green6">#006400</Color>
+    <Color x:Key="Vivid.Green7">#004b23</Color>
     
 </ResourceDictionary>
