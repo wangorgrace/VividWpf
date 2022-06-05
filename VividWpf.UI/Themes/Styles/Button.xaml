@@ -19,7 +19,7 @@
             Background="{TemplateBinding Background}"
             BorderBrush="{StaticResource Button.Normal.BorderBrush}"
             BorderThickness="2"
-            CornerRadius="7"
+            CornerRadius="{DynamicResource Vivid.CornerRadius.Medium}"
             SnapsToDevicePixels="true">
             <ContentPresenter x:Name="contentPresenter"
                 Margin="{TemplateBinding Padding}"

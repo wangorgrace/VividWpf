@@ -16,12 +16,13 @@
         <Border x:Name="border"
             Width="{TemplateBinding Width}"
             Height="{TemplateBinding Height}"
-            MinWidth="50"
+            MinWidth="40"
+            MinHeight="20"
             Padding="2"
             Background="{StaticResource Button.Normal.Border.Background}"
             BorderBrush="{StaticResource Button.Normal.Border.Brush}"
             BorderThickness="1"
-            CornerRadius="10">
+            CornerRadius="{DynamicResource Vivid.CornerRadius.Large}">
 
             <Border x:Name="PART_InnerBorder"
                 Width="{Binding Height, ElementName=border, Converter={StaticResource minusConverter}, ConverterParameter=5}"
@@ -30,7 +31,7 @@
                 Background="White"
                 BorderBrush="{StaticResource Button.Normal.InnerBorder.BoderBrush}"
                 BorderThickness="1"
-                CornerRadius="10" />
+                CornerRadius="{DynamicResource Vivid.CornerRadius.Large}" />
         </Border>
         <ControlTemplate.Triggers>
             <Trigger Property="IsChecked" Value="True">

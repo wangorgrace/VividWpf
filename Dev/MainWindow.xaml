@@ -24,7 +24,7 @@
                 <ComboBoxItem>123</ComboBoxItem>
                 <ComboBoxItem>123</ComboBoxItem>
             </ComboBox>
-            <ToggleButton IsEnabled="True"/>
+            <ToggleButton Width="40" Height="20" IsEnabled="True"/>
         </StackPanel>
         <StackPanel
             Grid.Row="1"

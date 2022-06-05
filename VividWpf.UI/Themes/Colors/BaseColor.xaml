@@ -6,6 +6,8 @@
     <Color x:Key="LightBlue">#79DAE8</Color>
     <Color x:Key="GrayBlue">#E8F9FD</Color>
 
+    <Color x:Key="Vivid.White">#FFFFFF</Color>
+
     <!--Gray-->
     <Color x:Key="Vivid.Gray0">#f8f9fa</Color>
     <Color x:Key="Vivid.Gray1">#e9ecef</Color>
@@ -17,6 +19,7 @@
     <Color x:Key="Vivid.Gray7">#343a40</Color>
     <Color x:Key="Vivid.Gray8">#212529</Color>
 
+    <!--Green-->
     <Color x:Key="Vivid.Green0">#ccff33</Color>
     <Color x:Key="Vivid.Green1">#9ef01a</Color>
     <Color x:Key="Vivid.Green2">#70e000</Color>
