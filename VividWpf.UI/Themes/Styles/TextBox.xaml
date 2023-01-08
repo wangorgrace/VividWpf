@@ -6,8 +6,8 @@
 
     <conv:String2BoolConverter x:Key="string2BoolConv" />
     <SolidColorBrush x:Key="TextBox.Static.Border" Color="{DynamicResource Vivid.Gray6}" />
-    <SolidColorBrush x:Key="TextBox.MouseOver.Border" Color="{DynamicResource LightBlue}" />
-    <SolidColorBrush x:Key="TextBox.Focus.Border" Color="{DynamicResource MediumBlue}" />
+    <SolidColorBrush x:Key="TextBox.MouseOver.Border" Color="{DynamicResource Vivid.Blue4}" />
+    <SolidColorBrush x:Key="TextBox.Focus.Border" Color="{DynamicResource Vivid.Blue3}" />
     <SolidColorBrush x:Key="TextBox.Normal.Hit.Foreground" Color="{DynamicResource Vivid.Gray4}" />
     <SolidColorBrush x:Key="TextBox.Normal.Foreground" Color="{DynamicResource Vivid.Gray8}" />
     <Style x:Key="TextBoxStyle" TargetType="{x:Type TextBox}">
