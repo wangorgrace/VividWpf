@@ -6,6 +6,16 @@
     <Color x:Key="LightBlue">#79DAE8</Color>
     <Color x:Key="GrayBlue">#E8F9FD</Color>
 
+    <Color x:Key="Vivid.Blue1">#FFCAF0F8</Color>
+    <Color x:Key="Vivid.Blue2">#FFade8f4</Color>
+    <Color x:Key="Vivid.Blue3">#FF90e0ef</Color>
+    <Color x:Key="Vivid.Blue4">#FF48cae4</Color>
+    <Color x:Key="Vivid.Blue5">#FF00b4d8</Color>
+    <Color x:Key="Vivid.Blue6">#FF0096c7</Color>
+    <Color x:Key="Vivid.Blue7">#FF0077b6</Color>
+    <Color x:Key="Vivid.Blue8">#FF023e8a</Color>
+    <Color x:Key="Vivid.Blue9">#FF03045e</Color>
+
     <Color x:Key="Vivid.White">#FFFFFF</Color>
 
     <!--Gray-->

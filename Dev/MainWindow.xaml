@@ -36,6 +36,12 @@
                 Height="40"
                 Margin="5"
                 Content="Button" />
+            <Button
+                Width="100"
+                Height="40"
+                Margin="5"
+                IsEnabled="False"
+                Content="Button" />
         </StackPanel>
     </Grid>
 </Window>

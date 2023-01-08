@@ -3,10 +3,10 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     <ResourceDictionary.MergedDictionaries>
         <ResourceDictionary Source="Values/BaseValue.xaml" />
-        <ResourceDictionary Source="Colors/BaseColor.xaml" />
         <ResourceDictionary Source="Styles/Button.xaml" />
         <ResourceDictionary Source="Styles/TextBox.xaml" />
         <ResourceDictionary Source="Styles/ComboBox.xaml" />
         <ResourceDictionary Source="Styles/ToggleButton.xaml" />
+        <ResourceDictionary Source="Colors/BaseColor.xaml" />
     </ResourceDictionary.MergedDictionaries>
 </ResourceDictionary>

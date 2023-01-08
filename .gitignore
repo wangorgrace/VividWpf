@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VividWpf
+/Dev/bin/Debug
+/Dev/obj/Debug
+/VividWpf.UI/bin/Debug
+/VividWpf.UI/obj/Debug

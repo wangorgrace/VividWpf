@@ -3,7 +3,7 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:sys="clr-namespace:System;assembly=mscorlib"
     xmlns:win="clr-namespace:System.Windows;assembly=PresentationFramework">
-    <win:CornerRadius x:Key="Vivid.CornerRadius.Large">10</win:CornerRadius>
-    <win:CornerRadius x:Key="Vivid.CornerRadius.Medium">7</win:CornerRadius>
-    <win:CornerRadius x:Key="Vivid.CornerRadius.Small">5</win:CornerRadius>
+    <win:CornerRadius x:Key="Vivid.CornerRadius.Large">7</win:CornerRadius>
+    <win:CornerRadius x:Key="Vivid.CornerRadius.Medium">5</win:CornerRadius>
+    <win:CornerRadius x:Key="Vivid.CornerRadius.Small">3</win:CornerRadius>
 </ResourceDictionary>
